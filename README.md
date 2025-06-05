@@ -35,8 +35,3 @@ Smart-Student-Agent-Assistant/
 ├── README.md                       # Project documentation (this file)
 ├── .env                            #Used to store the secure API key (GEMINI_API_KEY)
 
----
-
-## 🌐 Connect
-Made with ❤️ by [Your Name or Group Name]
-Drop a ⭐ if you found it helpful!
